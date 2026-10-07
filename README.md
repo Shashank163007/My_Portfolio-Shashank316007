@@ -4,7 +4,7 @@ Hey, Shashank V here . This is the source code for my personal developer portfol
 
 I'm a solo developer and CS undergrad at Intellipaat School of Technology. I spend most of my time building full-stack web apps, privacy-focused AI tools, and two-sided marketplaces[cite: 8]. I like to move fast, stick to tight MVP scoping, and actually ship products[cite: 8].
 
-**Live Site:** Not yet deployed 
+**Live Site:** https://portfolio-shashank-v.vercel.app/
 
 ## What's inside?
 
