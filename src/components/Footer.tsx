@@ -26,6 +26,14 @@ export function Footer() {
             GitHub
           </a>
           <a
+            href="https://www.linkedin.com/in/shashank-v-17065935b/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-xs text-muted transition-colors hover:text-foreground"
+          >
+            LinkedIn
+          </a>
+          <a
             href="mailto:shashank316007@gmail.com"
             className="text-xs text-muted transition-colors hover:text-foreground"
           >
